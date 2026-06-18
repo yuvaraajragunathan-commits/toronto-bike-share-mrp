@@ -23,7 +23,7 @@ The objective of this project is to study bike-sharing demand patterns, analyze 
 ## Project Structure
 
 /data → Raw and cleaned datasets
-/notebooks → Jupyter notebooks for EDA and preprocessing
+/notebooks → Google Colab for EDA and preprocessing
 /visualizations → Graphs and charts generated during analysis
 /models → Machine learning forecasting models
 /dashboard → Future dashboard implementation
@@ -37,7 +37,7 @@ The objective of this project is to study bike-sharing demand patterns, analyze 
 * Matplotlib
 * Seaborn
 * Scikit-learn
-* Jupyter Notebook
+* Google colab
 
 ## Supervisor
 
