@@ -19,6 +19,7 @@ The objective of this project is to study bike-sharing demand patterns, analyze 
 
 * Toronto Bike Share Operational Data (2021–2025)
 * Toronto Historical Climate Dataset (2021–2025)
+* Toronto Calender Event Dataset (2021-2025)
 
 ## Project Structure
 
