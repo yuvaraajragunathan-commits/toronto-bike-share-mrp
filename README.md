@@ -8,12 +8,14 @@ The objective of this project is to study bike-sharing demand patterns, analyze 
 
 ## Project Objectives
 
-* Analyze temporal demand behavior in Toronto Bike Share
-* Study weather impact on bike-sharing demand
-* Detect empty-risk and full-risk stations
-* Perform operational reliability analysis
-* Build machine learning demand forecasting models
-* Develop future proactive bike rebalancing framework
+• Analyze temporal demand patterns in Toronto Bike Share
+• Investigate the impact of weather and calendar events on bike demand
+• Develop machine learning models for hourly demand forecasting
+• Evaluate forecasting performance using multiple experiments
+• Identify station imbalance (overflow and shortage) risks
+• Perform reliability analysis across hours, weekdays, and months
+• Compare reactive and proactive rebalancing strategies
+• Provide data-driven recommendations for improving Bike Share operations
 
 ## Dataset
 
