@@ -1,4 +1,0 @@
-Dataset Configuration,Best Model,MAE,RMSE,R2
-Bike Share Only,Gradient Boosting,96.92,176.78,0.968
-Bike + Climate,Gradient Boosting,92.34,176.65,0.968
-Bike + Climate + Events,Gradient Boosting,91.74,175.15,0.968
