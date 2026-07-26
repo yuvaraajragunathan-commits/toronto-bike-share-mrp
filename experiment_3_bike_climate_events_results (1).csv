@@ -1,0 +1,5 @@
+Experiment,Model,MAE,RMSE,R2
+Bike Share + Climate + Events,Gradient Boosting,88.45,170.8,0.967
+Bike Share + Climate + Events,Random Forest,100.93,198.61,0.955
+Bike Share + Climate + Events,Linear Regression,141.91,243.56,0.933
+Bike Share + Climate + Events,Historical Average,345.25,540.2,0.671

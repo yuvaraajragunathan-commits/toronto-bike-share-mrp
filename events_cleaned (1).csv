@@ -1,0 +1,78 @@
+event_date,event_name,event_type,location,impact_level,year,month,day_of_week,is_event,day_name
+2021-01-01,New Year's Day,Public Holiday,Toronto,High,2021,1,Friday,1,Friday
+2021-02-15,Family Day,Public Holiday,Toronto,High,2021,2,Monday,1,Monday
+2021-04-02,Good Friday,Public Holiday,Toronto,High,2021,4,Friday,1,Friday
+2021-05-24,Victoria Day,Public Holiday,Toronto,High,2021,5,Monday,1,Monday
+2021-07-01,Canada Day,Public Holiday,Toronto,High,2021,7,Thursday,1,Thursday
+2021-09-06,Labour Day,Public Holiday,Toronto,High,2021,9,Monday,1,Monday
+2021-10-11,Thanksgiving,Public Holiday,Toronto,High,2021,10,Monday,1,Monday
+2021-12-25,Christmas Day,Public Holiday,Toronto,High,2021,12,Saturday,1,Saturday
+2021-12-26,Boxing Day,Public Holiday,Toronto,High,2021,12,Sunday,1,Sunday
+2022-01-01,New Year's Day,Public Holiday,Toronto,High,2022,1,Saturday,1,Saturday
+2022-02-21,Family Day,Public Holiday,Toronto,High,2022,2,Monday,1,Monday
+2022-04-15,Good Friday,Public Holiday,Toronto,High,2022,4,Friday,1,Friday
+2022-05-23,Victoria Day,Public Holiday,Toronto,High,2022,5,Monday,1,Monday
+2022-07-01,Canada Day,Public Holiday,Toronto,High,2022,7,Friday,1,Friday
+2022-09-05,Labour Day,Public Holiday,Toronto,High,2022,9,Monday,1,Monday
+2022-10-10,Thanksgiving,Public Holiday,Toronto,High,2022,10,Monday,1,Monday
+2022-12-25,Christmas Day,Public Holiday,Toronto,High,2022,12,Sunday,1,Sunday
+2022-12-26,Boxing Day,Public Holiday,Toronto,High,2022,12,Monday,1,Monday
+2023-01-01,New Year's Day,Public Holiday,Toronto,High,2023,1,Sunday,1,Sunday
+2023-02-20,Family Day,Public Holiday,Toronto,High,2023,2,Monday,1,Monday
+2023-04-07,Good Friday,Public Holiday,Toronto,High,2023,4,Friday,1,Friday
+2023-05-22,Victoria Day,Public Holiday,Toronto,High,2023,5,Monday,1,Monday
+2023-07-01,Canada Day,Public Holiday,Toronto,High,2023,7,Saturday,1,Saturday
+2023-09-04,Labour Day,Public Holiday,Toronto,High,2023,9,Monday,1,Monday
+2023-10-09,Thanksgiving,Public Holiday,Toronto,High,2023,10,Monday,1,Monday
+2023-12-25,Christmas Day,Public Holiday,Toronto,High,2023,12,Monday,1,Monday
+2023-12-26,Boxing Day,Public Holiday,Toronto,High,2023,12,Tuesday,1,Tuesday
+2024-01-01,New Year's Day,Public Holiday,Toronto,High,2024,1,Monday,1,Monday
+2024-02-19,Family Day,Public Holiday,Toronto,High,2024,2,Monday,1,Monday
+2024-03-29,Good Friday,Public Holiday,Toronto,High,2024,3,Friday,1,Friday
+2024-05-20,Victoria Day,Public Holiday,Toronto,High,2024,5,Monday,1,Monday
+2024-07-01,Canada Day,Public Holiday,Toronto,High,2024,7,Monday,1,Monday
+2024-09-02,Labour Day,Public Holiday,Toronto,High,2024,9,Monday,1,Monday
+2024-10-14,Thanksgiving,Public Holiday,Toronto,High,2024,10,Monday,1,Monday
+2024-12-25,Christmas Day,Public Holiday,Toronto,High,2024,12,Wednesday,1,Wednesday
+2024-12-26,Boxing Day,Public Holiday,Toronto,High,2024,12,Thursday,1,Thursday
+2025-01-01,New Year's Day,Public Holiday,Toronto,High,2025,1,Wednesday,1,Wednesday
+2025-02-17,Family Day,Public Holiday,Toronto,High,2025,2,Monday,1,Monday
+2025-04-18,Good Friday,Public Holiday,Toronto,High,2025,4,Friday,1,Friday
+2025-05-19,Victoria Day,Public Holiday,Toronto,High,2025,5,Monday,1,Monday
+2025-07-01,Canada Day,Public Holiday,Toronto,High,2025,7,Tuesday,1,Tuesday
+2025-09-01,Labour Day,Public Holiday,Toronto,High,2025,9,Monday,1,Monday
+2025-10-13,Thanksgiving,Public Holiday,Toronto,High,2025,10,Monday,1,Monday
+2025-12-25,Christmas Day,Public Holiday,Toronto,High,2025,12,Thursday,1,Thursday
+2025-12-26,Boxing Day,Public Holiday,Toronto,High,2025,12,Friday,1,Friday
+2021-06-15,Pride Toronto,Festival,Downtown,High,2021,6,Tuesday,1,Tuesday
+2021-08-20,Canadian National Exhibition,Festival,Exhibition Place,High,2021,8,Friday,1,Friday
+2021-09-07,Toronto International Film Festival,Festival,Entertainment District,High,2021,9,Tuesday,1,Tuesday
+2021-10-20,Toronto Waterfront Marathon,Marathon,Downtown,High,2021,10,Wednesday,1,Wednesday
+2021-05-01,Blue Jays Season Start,Sports,Rogers Centre,Medium,2021,5,Saturday,1,Saturday
+2021-05-15,Toronto FC Season,Sports,BMO Field,Medium,2021,5,Saturday,1,Saturday
+2021-10-15,Toronto Maple Leafs Season,Sports,Scotiabank Arena,Medium,2021,10,Friday,1,Friday
+2021-10-20,Toronto Raptors Season,Sports,Scotiabank Arena,Medium,2021,10,Wednesday,1,Wednesday
+2022-06-15,Pride Toronto,Festival,Downtown,High,2022,6,Wednesday,1,Wednesday
+2022-08-20,Canadian National Exhibition,Festival,Exhibition Place,High,2022,8,Saturday,1,Saturday
+2022-09-07,Toronto International Film Festival,Festival,Entertainment District,High,2022,9,Wednesday,1,Wednesday
+2022-10-20,Toronto Waterfront Marathon,Marathon,Downtown,High,2022,10,Thursday,1,Thursday
+2022-05-01,Blue Jays Season Start,Sports,Rogers Centre,Medium,2022,5,Sunday,1,Sunday
+2022-05-15,Toronto FC Season,Sports,BMO Field,Medium,2022,5,Sunday,1,Sunday
+2022-10-15,Toronto Maple Leafs Season,Sports,Scotiabank Arena,Medium,2022,10,Saturday,1,Saturday
+2022-10-20,Toronto Raptors Season,Sports,Scotiabank Arena,Medium,2022,10,Thursday,1,Thursday
+2023-06-15,Pride Toronto,Festival,Downtown,High,2023,6,Thursday,1,Thursday
+2023-08-20,Canadian National Exhibition,Festival,Exhibition Place,High,2023,8,Sunday,1,Sunday
+2023-09-07,Toronto International Film Festival,Festival,Entertainment District,High,2023,9,Thursday,1,Thursday
+2023-10-20,Toronto Waterfront Marathon,Marathon,Downtown,High,2023,10,Friday,1,Friday
+2023-05-01,Blue Jays Season Start,Sports,Rogers Centre,Medium,2023,5,Monday,1,Monday
+2023-05-15,Toronto FC Season,Sports,BMO Field,Medium,2023,5,Monday,1,Monday
+2023-10-15,Toronto Maple Leafs Season,Sports,Scotiabank Arena,Medium,2023,10,Sunday,1,Sunday
+2023-10-20,Toronto Raptors Season,Sports,Scotiabank Arena,Medium,2023,10,Friday,1,Friday
+2024-06-15,Pride Toronto,Festival,Downtown,High,2024,6,Saturday,1,Saturday
+2024-08-20,Canadian National Exhibition,Festival,Exhibition Place,High,2024,8,Tuesday,1,Tuesday
+2024-09-07,Toronto International Film Festival,Festival,Entertainment District,High,2024,9,Saturday,1,Saturday
+2024-10-20,Toronto Waterfront Marathon,Marathon,Downtown,High,2024,10,Sunday,1,Sunday
+2024-05-01,Blue Jays Season Start,Sports,Rogers Centre,Medium,2024,5,Wednesday,1,Wednesday
+2024-05-15,Toronto FC Season,Sports,BMO Field,Medium,2024,5,Wednesday,1,Wednesday
+2024-10-15,Toronto Maple Leafs Season,Sports,Scotiabank Arena,Medium,2024,10,Tuesday,1,Tuesday
+2024-10-20,Toronto Raptors Season,Sports,Scotiabank Arena,Medium,2024,10,Sunday,1,Sunday
