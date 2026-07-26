@@ -1,0 +1,17 @@
+Result,Value
+Best Forecasting Model,Gradient Boosting
+Best-Model MAE,88.45
+Best-Model RMSE,170.8
+Best-Model R²,0.9671
+High-Demand Accuracy,0.9751
+High-Demand Precision,0.9471
+High-Demand Recall,0.9348
+High-Demand F1 Score,0.9409
+Operational-Risk Rate,11.68%
+Reliability Proxy,88.32%
+Highest-Risk Station,King St W / Bay St (West Side)
+Highest-Risk Hour,9
+Highest-Risk Weekday,Wednesday
+Highest-Risk Month,11
+Event-Day Demand Change,-4.38%
+Event Effect P-Value,0.004255
